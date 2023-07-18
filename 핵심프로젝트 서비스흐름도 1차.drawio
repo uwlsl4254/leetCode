@@ -1,9 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T23:01:22.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="bvVO9C9A4OsTnlS-J0IX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T23:25:46.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PBOu_TVFWlbTg5vMHVUo" version="21.6.2" type="github">
   <diagram name="페이지-1" id="L-hD0_ks-zs4qb5gHUbN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XvMXmeMd8vFKyU9qin28-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-1" target="XvMXmeMd8vFKyU9qin28-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-8" value="블루투스" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-7">
+          <mxGeometry x="0.1644" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-1" value="버튼작동" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-2" value="LED 방출" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-3" target="XvMXmeMd8vFKyU9qin28-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-6" value="무게감지" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-5">
+          <mxGeometry x="0.1867" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-3" value="킥보드 탑승" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-4" value="경고음 작동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-12" target="XvMXmeMd8vFKyU9qin28-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-11" value="충격감지" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-10">
+          <mxGeometry x="0.1867" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-12" value="헬멧착용" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="234" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-13" value="경고음 작동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-15" target="XvMXmeMd8vFKyU9qin28-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-46" value="사고발생" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-18">
+          <mxGeometry x="-0.1806" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-15" value="헬멧착용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-16" target="XvMXmeMd8vFKyU9qin28-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-30" value="앱데이터&lt;br&gt;연동" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-29">
+          <mxGeometry x="-0.2489" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-16" value="킥보드 탑승" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-17" target="XvMXmeMd8vFKyU9qin28-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-17" target="XvMXmeMd8vFKyU9qin28-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-17" value="충격감지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-19" value="경고음작동" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-22" value="보호자 알림" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="656" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-26" target="XvMXmeMd8vFKyU9qin28-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-32" value="기준&lt;br&gt;만족시" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-24">
+          <mxGeometry x="0.3511" y="2" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-26" target="XvMXmeMd8vFKyU9qin28-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-33" value="기준&lt;br&gt;불만족시" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-25">
+          <mxGeometry x="0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint x="38" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-26" value="무게측정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-27" value="정상운행" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-28" value="경고음" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-36" target="XvMXmeMd8vFKyU9qin28-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-35" value="블루투스&lt;br&gt;연동" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-34">
+          <mxGeometry x="-0.2489" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-36" value="킥보드 손잡이&lt;br&gt;버튼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="863" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-41" target="XvMXmeMd8vFKyU9qin28-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-38" value="오른쪽&lt;br&gt;버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-37">
+          <mxGeometry x="0.3511" y="2" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvMXmeMd8vFKyU9qin28-41" target="XvMXmeMd8vFKyU9qin28-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-40" value="왼쪽&lt;br&gt;버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvMXmeMd8vFKyU9qin28-39">
+          <mxGeometry x="0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint x="38" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-41" value="방향지시&lt;br&gt;LED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="863" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-42" value="오른쪽 &lt;br&gt;방향지시 ON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="863" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvMXmeMd8vFKyU9qin28-43" value="왼쪽&lt;br&gt;방향지시 ON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="920" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
